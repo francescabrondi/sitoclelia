@@ -1,0 +1,107 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+footer {
+  background-color: #404040;
+  height: auto;
+  width: 100%;
+  margin-top: 40px;
+  padding: 20px;
+  color: white;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+}
+img {
+  padding-top: 2rem;
+}
+
+nav {
+  background-color: #404040;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  text-decoration: underline;
+}
+
+#stanze {
+  display: flex;
+}
+
+#uno,
+#due {
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  margin-top: 50px;
+}
+
+#photo-two {
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 500px;
+  height: 400px;
+  padding: 30px;
+  margin-top: 170px;
+}
+
+#photo-one {
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 500px;
+  height: 400px;
+  padding: 30px;
+}
+
+#chi-siamo-text {
+  display: flex;
+  margin-top: 20px;
+  font-family: "Lato", sans-serif;
+}
+
+#chi-siamo {
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  margin-top: 50px;
+}
+
+#footer-title {
+  font-size: 22px;
+}
+
+#socials {
+  margin-right: 50px;
+  margin-top: 50px;
+  opacity: 50%;
+}
+
+i {
+  padding: 5px;
+}
